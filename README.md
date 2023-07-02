@@ -1,5 +1,6 @@
 ## 📖 About Me
-- 🎓 I am Unnat Mistry, a final year CSE student at Nirma University
+- 🎓 I am Unnat Mistry, a CSE graduate from Nirma University
+- 🏢 Worked as a Java Developer intern at eClinicalWorks
 - 🖥 Full-stack Java Developer
 - 👨‍💻 Competitive Programmer
 
