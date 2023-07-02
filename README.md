@@ -1,4 +1,4 @@
-# Hi! I'm Unnat Mistry
+# 👋Hi! I'm Unnat Mistry
 ## 📖 About Me
 - 🎓 I am Unnat Mistry, a CSE graduate from Nirma University
 - 🏢 Worked as a Java Developer intern at eClinicalWorks
