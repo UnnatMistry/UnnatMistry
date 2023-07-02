@@ -7,7 +7,7 @@
 
 ## 📫 How to reach me:
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" height="3.5%"/>](https://www.linkedin.com/in/unnatmistry/)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" height="100px"/>](https://www.linkedin.com/in/unnatmistry/)
 &nbsp; <a href="mailto:unnatmistry@icloud.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" height="3.5%"/></a>
 &nbsp; [<img src="https://github.com/UnnatMistry/UnnatMistry/assets/87070570/71c2cf75-c721-4422-ba6f-9736baab6b3e" height="3.5%"/>](https://www.instagram.com/unnat_mistry/)
 &nbsp; [<img src="https://github.com/UnnatMistry/UnnatMistry/assets/87070570/8f222543-54fd-4eee-8e98-d526d1c33b80" height="3.5%"/>](https://leetcode.com/Unnat_Mistry/)
